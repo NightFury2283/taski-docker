@@ -87,4 +87,4 @@ jobs:
           # Для каждого пересобранного образа 
           # устанавливаем тег latest, чтобы потом
           # на сервере и в docker-compose.yml не указать версию
-          tags: fightfury321/taski_backend:latest
+          tags: nightfury321/taski_backend:latest
